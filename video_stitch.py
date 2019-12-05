@@ -1,7 +1,5 @@
 # import the necessary packages
 from __future__ import print_function
-#from pyimagesearch.basicmotiondetector import BasicMotionDetector
-#from pyimagesearch.panorama import Stitcher
 from Stitch import Stitcher
 from imutils.video import VideoStream
 import numpy as np
