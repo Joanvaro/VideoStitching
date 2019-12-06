@@ -30,7 +30,7 @@ $ unzip opencv_contrib.zip
 OpenCV requieres the python library NumPy, to install it copy the following command:
 ``` bash
  pip3 install numpy
-``
+```
 For building OpenCV:
 ``` bash
 $ cd ~/opencv-3.4.7/
